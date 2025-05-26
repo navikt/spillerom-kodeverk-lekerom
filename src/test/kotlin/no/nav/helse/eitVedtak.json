@@ -1,0 +1,68 @@
+
+[
+{
+  "8-2" : {
+    "status": {
+      "status": "Ikke Relevant",
+      "pga": "8-45"
+    }
+  },
+  "8-45" : {
+    "status" : "Oppfyllt",
+    "begrunnelseFritekst" : null,
+    "kilder" : [
+      {
+        "type": "Oppslag i fiskermantallet",
+        "bakrom_oppslag_uuid" : "123"
+      },
+      {
+        "type": "Telefonsamtale",
+        "gosys_notat_id" : "456"
+      }
+    ]
+  }
+},
+
+  {
+    "8-2" : {
+      "status": "Oppfyllt",
+      "8-2.1" : {
+        "status": "Oppfyllt"
+      }
+    },
+    "8-3" : {
+      "status": "Ikke Oppfyllt",
+      "pga" : "8-3.1.2",
+      "8-3.1.2" : {
+        "status": true,
+        "kilde" : {
+          "type" : "PDL"
+        }
+      },
+    "8-10" : {
+      "fastsattgrunnlag" : 500.0,
+      "kilde" : {
+        "type" : "Oppslag i AInntekt",
+        "bakrom_oppslag_uuid" : "123"
+      }
+    },
+    "8-45" : {
+      "status" : "Oppfyllt",
+      "begrunnelseFritekst" : null,
+      "kilder" : [
+        {
+          "type": "Oppslag i fiskermantallet",
+          "bakrom_oppslag_uuid" : "123"
+        },
+        {
+          "type": "Telefonsamtale",
+          "gosys_notat_id" : "456"
+        }
+      ]
+    }
+  }
+
+
+
+
+]

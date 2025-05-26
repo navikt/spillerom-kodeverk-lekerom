@@ -1,0 +1,14 @@
+{
+
+  "vedtakshjemmel" : "Ftrl 8-34",
+  "kode" : "SYKEPENGER_SELVSTENDIG_NÆRINGSDRIVENDE",
+  "vilkår" : [
+    "SØKDM",
+    "BOINO",
+    "ARBUFØR",
+    "OPPTJT",
+    "MINSTEINNT",
+    "INNTAP"
+  ]
+
+}
